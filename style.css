@@ -115,7 +115,11 @@ textarea {
     width: 20px;
     height: 20px;
     cursor: pointer;
+}.dark-mode {
+    background-color: black !important;
 }
+
+
 
 
 
